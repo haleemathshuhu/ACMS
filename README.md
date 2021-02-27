@@ -1,7 +1,6 @@
 # ACMS
-An Ovweview
+Overview
 
-Archival Collections Management System (ACMS)
 An Archival Collections Management System (ACMS) is a software that provides integrated support for the archival workflow, including accessioning, description, arrangement, maintaining records, collection management, preservation and digitization.
 ACMS used by archives staff to organize, control, and manage their collections. The system supports archivists in their routine work to identify records of enduring value, to preserve them and to make them accessible to other departments within the organization, as well as to donors, researchers and the public.
 Patrons expect to find information from archival collections easily. To help them, archivists need a system that lets users retrieve information quickly and precisely. The aim of this system is;
